@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '13.0'
   spec.name         = "CrassulaSDK"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of CrassulaSDK."
+  spec.summary      = "CrassulaSDK helps developer create apps fro Crassula system"
 
   spec.license = { :type => "MIT", :file => "LICENSE" }
 
