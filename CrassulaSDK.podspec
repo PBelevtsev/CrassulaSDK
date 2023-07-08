@@ -34,7 +34,7 @@ Pod::Spec.new do |spec|
 #  spec.dependency 'Alamofire', '~> 4.7'
 #  spec.dependency 'MBProgressHUD', '~> 1.1.0'
 
-  spec.source_files = "CrassulaSDK/**/*.{swift}"
+  spec.source_files = "CrassulaSDK/**/*.{h,swift}"
 
 #  spec.resources = "CrassulaSDK/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
