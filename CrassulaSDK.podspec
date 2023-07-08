@@ -31,6 +31,7 @@ Pod::Spec.new do |spec|
              :tag => "#{spec.version}" }
 
   spec.framework = "UIKit"
+  spec.dependency 'AFNetworking'
 #  spec.dependency 'Alamofire', '~> 4.7'
 #  spec.dependency 'MBProgressHUD', '~> 1.1.0'
 
