@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "https://github.com/PBelevtsev/CrassulaSDK"
 
   spec.source = { :git => "https://github.com/PBelevtsev/CrassulaSDK.git",
-             :tag => "#{s.version}" }
+             :tag => "#{spec.version}" }
 
   spec.framework = "UIKit"
 #  spec.dependency 'Alamofire', '~> 4.7'
