@@ -36,7 +36,7 @@ Pod::Spec.new do |spec|
 
   spec.source_files = "CrassulaSDK/**/*.{swift}"
 
-  spec.resources = "CrassulaSDK/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#  spec.resources = "CrassulaSDK/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   spec.swift_version = "4.2"
 
